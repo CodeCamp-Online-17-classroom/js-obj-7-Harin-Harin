@@ -2,6 +2,7 @@
 ### Lab53 Object: calSalary
 - ให้คำนวณผลรวมของ salaries ใน object ที่มี property แบบด้านล่าง
 - ถ้า object เป็น object ว่าง ให้ return ค่าผลรวมเป็น 0
+- หริณ มาเบ้า
 
 ```JavaScript
 let salaries = {
